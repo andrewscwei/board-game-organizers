@@ -175,3 +175,6 @@ _site
 # Ruby
 .ruby-version
 .ruby-version
+
+# Blender
+*.blend1
